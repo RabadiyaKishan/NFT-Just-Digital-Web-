@@ -1,0 +1,5 @@
+Password : 123456
+alies : key0
+name : key.jks
+versionCode 1
+versionName "1.0"

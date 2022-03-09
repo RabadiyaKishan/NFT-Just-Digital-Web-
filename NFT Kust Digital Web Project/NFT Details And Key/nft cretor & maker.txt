@@ -1,0 +1,30 @@
+App Name - NFT Creator & NFT Maker
+
+Package Name - com.jdw.nftcreator
+
+
+
+ADMOB
+
+App_id
+
+ -- ca-app-pub-8116007589802198~1410531856
+
+
+
+Banner_Ads -- 
+
+ca-app-pub-8116007589802198/5123418291
+
+
+
+Interstitial_Ads
+
+ -- ca-app-pub-8116007589802198/9992601595
+
+
+FB -
+
+Banner - 526113235540971_526113838874244
+
+Full screen - 526113235540971_526113988874229

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NFT Creator and NFT Maker</string>
+
+    <string name="permission_read_storage_rationale">Storage read permission is needed to pick files.</string>
+    <string name="permission_title_rationale">Permission needed</string>
+    <string name="permission_write_storage_rationale">Storage write permission is needed to save the image.</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="tedpermission_close">Close</string>
+    <string name="tedpermission_confirm">Confirm</string>
+    <string name="tedpermission_setting">Setting</string>
+    <string name="title">NFT Creator and NFT Maker</string>
+    <string name="toast_cannot_retrieve_cropped_image">Cannot retrieve cropped image</string>
+    <string name="toast_cannot_retrieve_selected_image">Cannot retrieve selected image</string>
+    <string name="toast_unexpected_error">Unexpected error</string>
+    <string name="label_select_picture">Select Picture</string>
+
+    <string name="label_cancel">Cancel</string>
+    <string name="label_ok">OK</string>
+
+    <!--    <string name="fb_banner">655839221518493_655840004851748</string>-->
+    <!--    <string name="fb_intdusrtial">655839221518493_866621830440230</string>-->
+    <string name="google_app_id">ca-app-pub-8116007589802198~1410531856</string>
+    <string name="google_banner">ca-app-pub-8116007589802198/5123418291</string>
+    <string name="google_interstitial">ca-app-pub-8116007589802198/9992601595</string>
+    <string name="facebook_banner">526113235540971_526113838874244</string>
+    <string name="facebook_interstitial">526113235540971_526113988874229</string>
+</resources>
